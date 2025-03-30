@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 About Me:<br>👨‍💻 I am an IT student specializing in Network Security & Cybersecurity.<br>💻 Web development & programming are my passions—I love coding in my free time!<br>🇲🇬 I live in Madagascar (the island, not the cartoon 😉).<br>📩 Feel free to contact me for any kind of projects!
+👨‍💻 I am an IT student specializing in Network Security & Cybersecurity.<br>💻 Web development & programming are my passions—I love coding in my free time!<br>🇲🇬 I live in Madagascar (the island, not the cartoon 😉).<br>📩 Feel free to contact me for any kind of projects!
 
 
 ## 🌐 Socials:
